@@ -1,2 +1,4 @@
-/music/*
-/lryic/*
+/music/*.mp3
+/music/*.wav
+/music/*.ogg
+/lryic/*.lrc
